@@ -20,6 +20,6 @@ There are a few more functions that are yet to be added into the repository.
 
 ## To be added:
 * Fibbonacci Formula using Difference Equation
-* Differential Equations
+* Solving Differential Equations
 * Markov Matrices
 * Fourier Matrices
